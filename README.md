@@ -11,6 +11,7 @@ Download [the latest release from macOS appstore](https://apps.apple.com/us/app/
 - zh_CN [简体中文](README.zh_cn.md)
 - zh_TW [繁体中文](README.zh_tw.md)
 
+# Version History
 
 V2.3
 ---
