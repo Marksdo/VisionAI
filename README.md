@@ -1,12 +1,12 @@
 # README.md
-- de_DE [Deutsch](README.de.md)
-- en [English](README.md)
-- es [Spanish](README.es.md)
-- fr [French](README.fr.md)
-- ko [언어](README.ko.md)
-- ja [日本語](README.ja.md)
-- zh_CN [简体中文](README.zh_cn.md)
-- zh_TW [繁体中文](README.zh_tw.md)
+- [Deutsch](README.de.md)
+- [English](README.md)
+- [Spanish](README.es.md)
+- [French](README.fr.md)
+- [언어](README.ko.md)
+- [日本語](README.ja.md)
+- [简体中文](README.zh_cn.md)
+- [繁体中文](README.zh_tw.md)
 
 # Vision AI+ Enhance anime quality. Video 2K Repair . Grayscale video colorizer
 

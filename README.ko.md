@@ -1,3 +1,13 @@
+# README.md
+- [Deutsch](README.de.md)
+- [English](README.md)
+- [Spanish](README.es.md)
+- [French](README.fr.md)
+- [언어](README.ko.md)
+- [日本語](README.ja.md)
+- [简体中文](README.zh_cn.md)
+- [繁体中文](README.zh_tw.md)
+
 # 비전 AI+ 애니메이션 품질 향상. 비디오 2K 복구. 그레이스케일 비디오 컬러라이저
 
 [macOS 앱스토어에서 최신 릴리스 다운로드](https://apps.apple.com/us/app/id6445976076)

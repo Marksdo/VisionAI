@@ -1,3 +1,13 @@
+# README.md
+- [Deutsch](README.de.md)
+- [English](README.md)
+- [Spanish](README.es.md)
+- [French](README.fr.md)
+- [언어](README.ko.md)
+- [日本語](README.ja.md)
+- [简体中文](README.zh_cn.md)
+- [繁体中文](README.zh_tw.md)
+
 # Vision AI+ Verbessert die Qualität von Anime. Video 2K Reparatur. Graustufen-Video-Farbverstärker
 
 Laden Sie [die neueste Version aus dem macOS App Store herunter](https://apps.apple.com/de/app/id6445976076)
