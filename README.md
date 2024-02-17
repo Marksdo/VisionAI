@@ -9,7 +9,6 @@
 - [简体中文](README.zh_cn.md)
 - [繁体中文](README.zh_tw.md)
 
-
 # Vision AI+ Enhance anime quality. Video 2K Repair . Grayscale video colorizer
 
 Download [the latest release from macOS appstore](https://apps.apple.com/us/app/id6445976076)
