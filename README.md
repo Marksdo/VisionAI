@@ -5,7 +5,7 @@
 - [French](README.fr.md)
 - [언어](README.ko.md)
 - [日本語](README.ja.md)
-- [简体中文](README.zh_cn.md)
+- [简体中文](zh_cn/README.md)
 - [繁体中文](README.zh_tw.md)
 
 # Vision AI+ Enhance anime quality. Video 2K Repair . Grayscale video colorizer
