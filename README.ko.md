@@ -81,13 +81,13 @@ V1.0~1.2
 ## 기능
 
 ### 애니메이션 비디오를 고품질로 변환하기
-![애니메이션 고품질 변환](imgs/Web-Preview-1.png)
+![애니메이션 고품질 변환](images/Web-Preview-1.png)
 
 ### 그레이스케일 무비 컬러라이저
-![그레이스케일 무비 컬러라이저](imgs/Web-Preview-2.png)
+![그레이스케일 무비 컬러라이저](images/Web-Preview-2.png)
 
 ### 고품질 비디오로 변환, 2K 복구
-![고품질 비디오로 변환](imgs/Web-Preview-3.png)
+![고품질 비디오로 변환](images/Web-Preview-3.png)
 
 ### 재미를 위해 비디오를 스케치 스타일 비디오로 변환하기
-![재미를 위해 비디오를 스케치 스타일로 변환](imgs/Web-Preview-4.png)
+![재미를 위해 비디오를 스케치 스타일로 변환](images/Web-Preview-4.png)

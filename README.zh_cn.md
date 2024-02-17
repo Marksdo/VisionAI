@@ -81,13 +81,13 @@ V1.0~1.2
 ## 特点
 
 ### 将动画视频转换为高质量
-![convert-anime-high-quality](imgs/Web-Preview-1.png)
+![convert-anime-high-quality](images/Web-Preview-1.png)
 
 ### 上色灰度电影
-![colorizer-grayscale-movie](imgs/Web-Preview-2.png)
+![colorizer-grayscale-movie](images/Web-Preview-2.png)
 
 ### 将电影转换为高质量，修复2K
-![convert-movie-to-high-quality](imgs/Web-Preview-3.png)
+![convert-movie-to-high-quality](images/Web-Preview-3.png)
 
 ### 将视频转换为素描风格的视频，用于娱乐
-![Convert-video-to-sketch-style-video-for-fun](imgs/Web-Preview-4.png)
+![Convert-video-to-sketch-style-video-for-fun](images/Web-Preview-4.png)

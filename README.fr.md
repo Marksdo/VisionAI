@@ -81,13 +81,13 @@ V1.0~1.2
 ## Fonctionnalités
 
 ### Convertir une vidéo anime en haute qualité
-![convert-anime-high-quality](imgs/Web-Preview-1.png)
+![convert-anime-high-quality](images/Web-Preview-1.png)
 
 ### Coloriser un film en niveaux de gris
-![colorizer-grayscale-movie](imgs/Web-Preview-2.png)
+![colorizer-grayscale-movie](images/Web-Preview-2.png)
 
 ### Convertir un film en haute qualité, réparation 2K
-![convert-movie-to-high-quality](imgs/Web-Preview-3.png)
+![convert-movie-to-high-quality](images/Web-Preview-3.png)
 
 ### Convertir une vidéo en vidéo de style croquis pour s'amuser
-![Convert-video-to-sketch-style-video-for-fun](imgs/Web-Preview-4.png)
+![Convert-video-to-sketch-style-video-for-fun](images/Web-Preview-4.png)

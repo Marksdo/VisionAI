@@ -81,13 +81,13 @@ V1.0~1.2
 ## 功能
 
 ### 將動漫視頻轉換為高品質視頻
-![convert-anime-high-quality](imgs/Web-Preview-1.png)
+![convert-anime-high-quality](images/Web-Preview-1.png)
 
 ### 上色灰階電影
-![colorizer-grayscale-movie](imgs/Web-Preview-2.png)
+![colorizer-grayscale-movie](images/Web-Preview-2.png)
 
 ### 將電影轉換為高品質，2K修復
-![convert-movie-to-high-quality](imgs/Web-Preview-3.png)
+![convert-movie-to-high-quality](images/Web-Preview-3.png)
 
 ### 將視頻轉換為素描風格影片，用於娛樂
-![Convert-video-to-sketch-style-video-for-fun](imgs/Web-Preview-4.png)
+![Convert-video-to-sketch-style-video-for-fun](images/Web-Preview-4.png)

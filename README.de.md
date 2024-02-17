@@ -81,13 +81,13 @@ V1.0~1.2
 ## Funktionen
 
 ### Konvertieren Sie Anime-Videos in hoher Qualität
-![convert-anime-high-quality](imgs/Web-Preview-1.png)
+![convert-anime-high-quality](images/Web-Preview-1.png)
 
 ### Färben Sie Graustufenfilme
-![colorizer-grayscale-movie](imgs/Web-Preview-2.png)
+![colorizer-grayscale-movie](images/Web-Preview-2.png)
 
 ### Konvertieren Sie Filme in hoher Qualität, 2K Reparatur
-![convert-movie-to-high-quality](imgs/Web-Preview-3.png)
+![convert-movie-to-high-quality](images/Web-Preview-3.png)
 
 ### Konvertieren Sie Videos in Skizzenstil-Videos für Spaß
-![Convert-video-to-sketch-style-video-for-fun](imgs/Web-Preview-4.png)
+![Convert-video-to-sketch-style-video-for-fun](images/Web-Preview-4.png)
