@@ -4,12 +4,12 @@ Download [the latest release from macOS appstore](https://apps.apple.com/us/app/
 
 
 # README.md
-- de_DE [Deutsch](readme/README.de.md)
+- de_DE [Deutsch](README.de.md)
 - en [English](README.md)
-- ko [Korean](readme/README.ko.md)
-- ja [Japanese](readme/README.ja.md)
-- zh_CN [简体中文](readme/README.zh_cn.md)
-- zh_TW [繁体中文](readme/README.zh_tw.md)
+- ko [Korean](README.ko.md)
+- ja [Japanese](README.ja.md)
+- zh_CN [简体中文](README.zh_cn.md)
+- zh_TW [繁体中文](README.zh_tw.md)
 
 
 V2.3
