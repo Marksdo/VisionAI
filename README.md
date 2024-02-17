@@ -2,6 +2,16 @@
 
 Download [the latest release from macOS appstore](https://apps.apple.com/us/app/id6445976076)
 
+
+# README.md
+- de_DE [Deutsch](readme/README.de.md)
+- en [English](README.md)
+- ko [Korean](readme/README.ko.md)
+- ja [Japanese](readme/README.ja.md)
+- zh_CN [简体中文](readme/README.zh_cn.md)
+- zh_TW [繁体中文](readme/README.zh_tw.md)
+
+
 V2.3
 ---
 - Added support for .mov file convert  
